@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1083311047837",
+    "firebase_url": "https://fastfooddb-12713-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fastfooddb-12713",
+    "storage_bucket": "fastfooddb-12713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083311047837:android:5f9265ed78272275508074",
+        "android_client_info": {
+          "package_name": "com.example.fastfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWXZ3sxh_45qdih5Mp6ig_jOSoZWg-OvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083311047837:android:def53b2d07def469508074",
+        "android_client_info": {
+          "package_name": "com.example.server"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWXZ3sxh_45qdih5Mp6ig_jOSoZWg-OvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

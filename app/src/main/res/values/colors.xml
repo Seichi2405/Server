@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004d40</color>
+    <color name="colorPrimaryDark">#00251a</color>
+    <color name="btnDangKy">#39796b</color>
+    <color name="btnDangNhap">#a9d440</color>
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+    <color name="colorSlogan">#000000</color>
+    <color name="colorBackground">#F4F0CA</color>
+</resources>
